@@ -16,7 +16,29 @@ font-size: 16px;
 text-align: center;
 }
 
-.video1 {
+#video1 {
 background-color: black;
 text-align: center;
+}
+
+h2 {
+color: white;
+font-weight: 300px;
+font-size: 42px;
+text-align: center;
+}
+
+#content1 {
+font-size: 21px;
+color: gray;
+}
+
+#link {
+color: Aqua;
+font-weight: bold;
+}
+
+#copyright {
+color: gray;
+text-align: right;
 }
